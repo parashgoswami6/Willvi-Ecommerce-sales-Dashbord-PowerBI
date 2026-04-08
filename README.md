@@ -2,6 +2,9 @@
 " A Power BI Dashboard To Analyze E-Commerce Sales Data,Profit Trends And Customer Behavior"
 📌 Project Overview
 The Willvi Ecommerce Sales Dashboard is a comprehensive data visualization project designed to track and analyze the sales performance of an e-commerce business. In today's competitive market, understanding customer behavior and sales trends is crucial for growth. This project transforms raw transactional data into actionable insights using Power BI, helping stakeholders monitor key performance indicators (KPIs) and make data-driven decisions.
+
+
+
 📊 Key Features & Metrics
 The dashboard focuses on several critical business dimensions:
 Executive Summary (KPIs): Real-time tracking of Total Sales (Amount), Total Profit, Total Quantity Sold, and Average Order Value (AOD).
@@ -10,12 +13,18 @@ Product Performance: Analysis of sales by category (Clothing, Electronics, Furni
 Customer Insights: Visualization of sales by customer names to identify loyal and high-value buyers.
 Payment Trends: Analysis of preferred payment methods, including COD, UPI, EMI, and Credit Cards, to understand consumer financial preferences.
 Time-Series Analysis: Monthly profit trends to identify seasonal growth and low-performance periods.
+
+
+
 🛠️ Technical Stack
 Tool: Power BI Desktop
 Data Cleaning: Power Query (used for handling null values, formatting dates, and restructuring columns).
 Modeling: Star Schema (connecting transaction tables with dimension tables).
 Calculations: DAX (Data Analysis Expressions) was used to create custom measures for Total Sales, Profit Margins, and YoY Growth.
 Visuals: Donut Charts, Stacked Bar Charts, Line & Clustered Column Charts, and Slicers for interactivity.
+
+
+
 💡 Key Business Insights
 Based on the dashboard analysis:
 Dominant Category: Clothing accounts for 63% of total sales, making it the primary revenue driver.
